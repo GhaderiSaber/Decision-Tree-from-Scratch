@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: AttributeError
+  - text: Jess
+  - text: Alex
+  - text: Melani
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6983#comment
+status: Solved
+record: -1
+local_check: false

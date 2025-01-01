@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "df.melt(id_vars='Number&amp;Letter', ignore_index=False)"
+  - text: "df.melt(var_name='Number&amp;Letter', value_name='Letter', ignore_index=True)"
+  - text: "df.melt(var_name='Number&amp;Letter', value_name='Letter', ignore_index=False)"
+  - text: "df.melt(var_name='Letter', value_name='Number&amp;Letter', ignore_index=False)"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14377#comment
+status: Solved
+record: -1
+local_check: false

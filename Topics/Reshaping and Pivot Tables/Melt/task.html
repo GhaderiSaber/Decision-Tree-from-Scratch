@@ -1,0 +1,25 @@
+<div class="step-text">
+<p></p>
+<p>Imagine you work with the following pivoted dataset <code class="java">df</code>:</p>
+<pre><code class="language-no-highlight">+----------+-----+-----+
+|   Letter | A   | B   |
+|   Number |     |     |
+|----------+-----+-----|
+|        1 | A1  | B1  |
+|        2 | A2  | B2  |
+|        3 | A3  | B3  |
++----------+-----+-----+</code></pre>
+<p>How could you reshape the DataFrame to make it look like:</p>
+<pre><code class="language-no-highlight">+----------+----------+-----------------+
+|          | Letter   | Number&amp;Letter   |
+|   Number |          |                 |
+|----------+----------+-----------------|
+|        1 | A        | A1              |
+|        2 | A        | A2              |
+|        3 | A        | A3              |
+|        1 | B        | B1              |
+|        2 | B        | B2              |
+|        3 | B        | B3              |
++----------+----------+-----------------+</code></pre>
+<p><strong>Tip:</strong> Check <a href="https://pandas.pydata.org/docs/reference/api/pandas.melt.html" rel="noopener noreferrer nofollow" target="_blank">the documentation</a> to get the correct answer</p>
+</div>

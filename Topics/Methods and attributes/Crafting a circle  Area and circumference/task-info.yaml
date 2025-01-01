@@ -1,0 +1,10 @@
+type: code
+custom_name: "Crafting a circle: Area and circumference"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/46923#comment
+status: Solved
+record: -1
+submission_language: python3

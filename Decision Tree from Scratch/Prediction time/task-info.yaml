@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/data_stage5_test.csv
+    visible: false
+    learner_created: false
+  - name: test/data_stage5_train.csv
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20213#comment
+status: Failed
+feedback:
+  message: "Wrong answer in test #1"
+  time: "Thu, 21 Nov 2024 13:43:41 UTC"
+record: -1

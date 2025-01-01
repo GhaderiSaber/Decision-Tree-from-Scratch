@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Both code snippets perform scaling of features by making the mean of the data
+      0 and standard deviation 1
+  - text: Code snippet 1 performs normalization of data while code snippet 2 performs
+      scaling of features to a pre-defined range
+  - text: Both code snippets perform normalization of data
+  - text: Code snippet 1 performs scaling of features to a range (generally 0 to 1 or
+      -1 to 1) while code snippet 2 performs scaling by making the mean of data 0 and
+      standard deviation 1
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/34737#comment
+status: Solved
+record: -1
+local_check: false

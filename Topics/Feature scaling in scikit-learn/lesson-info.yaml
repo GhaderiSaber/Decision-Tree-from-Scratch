@@ -1,0 +1,10 @@
+content:
+  - Theory
+  - Different ways of feature scaling in sklearn
+  - Maximum absolute value
+  - The Normalizer Trick
+  - The appropriate scaler
+  - The distribution change
+  - Feature normalization
+  - Scaling to the maximum absolute value
+  - Normalizing the samples

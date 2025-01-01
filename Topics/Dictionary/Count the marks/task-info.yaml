@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 5.0
+  - text: 5
+  - text: 6
+  - text: The error will occur
+  - text: 9.0
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6486#comment
+status: Solved
+record: -1
+local_check: false

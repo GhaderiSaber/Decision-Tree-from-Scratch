@@ -1,0 +1,21 @@
+type: matching
+captions:
+  - <code>StandardScaler</code>
+  - <code>MinMaxScaler</code>
+  - <code>Normalizer</code>
+options:
+  - Transforms the features by removing the mean and making the standard deviation be
+    equal to 1
+  - Transforms the rows by scaling them to a unit norm
+  - Transforms the features by scaling them into a specified range
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/28158#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

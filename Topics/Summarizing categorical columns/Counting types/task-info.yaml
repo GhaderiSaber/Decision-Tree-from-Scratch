@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - <code>.count()</code>
+  - <code>.isna().sum()</code>
+  - "<code>.shape[0]</code>"
+  - <code>.nunique()</code>
+options:
+  - Counts the number of unique values
+  - Counts every row
+  - Counts all non-null values
+  - Counts only nulls
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13354#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

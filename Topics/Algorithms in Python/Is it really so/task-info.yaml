@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "It's impossible, because no one knows how these algorithms works"
+  - text: "Yes, of course."
+  - text: "It's impossible, we should import standard libraries"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15378#comment
+status: Solved
+record: -1
+custom_name: Is it really so?
+local_check: false
